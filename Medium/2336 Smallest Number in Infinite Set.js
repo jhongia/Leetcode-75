@@ -53,10 +53,11 @@ var SmallestInfiniteSet = function() {
  * @return {number}
  */
 SmallestInfiniteSet.prototype.popSmallest = function() {
-    //let min = Math.min(...this.arr);
+    // if there is an element in the list, we take it (using the shift properties)
     if(this.arr.length){
         return this.arr.shift();
     } else{
+        // otherwise increase the current smaller value
         this.curr = this.curr + 1
         return this.curr - 1
     }
@@ -67,9 +68,13 @@ SmallestInfiniteSet.prototype.popSmallest = function() {
  * @return {void}
  */
 SmallestInfiniteSet.prototype.addBack = function(num) {
+    // there is no point in storing anything greater than the current smaller value
     if(num < this.curr){
         if(!this.arr.includes(num)){
             this.arr.push(num);
+            // constant sorting allows to simplify this.popSmallest
+            // it is log(n) but in fact only new num needs to be sorted
+            // so it is fast
             this.arr.sort((a,b) => a-b);
         }
     }
