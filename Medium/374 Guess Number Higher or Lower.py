@@ -47,6 +47,16 @@ Constraints:
 #          otherwise return 0
 # def guess(num: int) -> int:
 
+def guess(num: int) -> int:
+    result = 0
+    if(num > pick):
+        result = -1
+    elif(num < pick):
+        result = 1
+    else:
+        result = 0
+    return result
+
 class Solution:
     def guessNumber(self, n: int) -> int:
         left = 1
