@@ -1,47 +1,48 @@
-# 🚀 LeetCode‑75 — Coding Interview Challenge
+# 🚀 LeetCode 75 — Coding Interview Challenge
 
-![LeetCode](https://img.shields.io/badge/Platform-LeetCode-orange)
-![Language](https://img.shields.io/badge/Languages-Python%20%7C%20JavaScript-blue)
-![Focus](https://img.shields.io/badge/Focus‑Interview%20Prep‑%20DSA‑Patterns‑green)
-![Status](https://img.shields.io/badge/Progress‑Active-yellow)
+![LeetCode 75](https://img.shields.io/badge/LeetCode-75-blue)
+![Language](https://img.shields.io/badge/Languages-Python%20|%20JavaScript-blue)
+![Focus](https://img.shields.io/badge/Focus-DSA%20Patterns-green)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/jhongia/Leetcode-75)
+![Repo Size](https://img.shields.io/github/repo-size/jhongia/Leetcode-75)
 
-This repository tracks my journey solving the **LeetCode 75 Study Plan** — a curated set of 75 essential algorithm and data structure problems commonly used in technical interview preparation. :contentReference[oaicite:0]{index=0}
+This repository documents my journey solving the **LeetCode 75 Study Plan** — a curated set of 75 essential data structure and algorithm problems commonly asked in technical interviews.  
 
-Rather than just submitting code, I focus on writing **clean, efficient, and interview‑ready solutions** with patterns I can reuse across similar problem types.
+Rather than just submitting solutions, I focus on writing **clean, efficient, and interview-ready code**, while understanding the patterns and logic behind each problem.
 
-🔗 LeetCode 75 Study Plan  
-https://leetcode.com/studyplan/leetcode‑75/ :contentReference[oaicite:1]{index=1}
-
----
-
-## 🎯 Why I’m Doing This
-
-- Build a strong foundation in data structures and algorithms  
-- Practice core interview questions with real solutions  
-- Understand patterns that generalize across problems  
-- Track my progress publicly and consistently  
-- Strengthen technical skills relevant for SWE interviews
+🔗 Study Plan  
+https://leetcode.com/studyplan/leetcode-75/
 
 ---
 
-## 📚 Skills & Concepts Practiced
+## 🎯 Why I Built This
 
-- Arrays & Strings
-- Two Pointers & Sliding Window
-- Hash Maps & Sets
-- Stack & Queue Techniques
-- Binary Trees & Graph Traversals
-- Recursion & Backtracking
-- Dynamic Programming
-- Sorting & Searching
-- Optimization & Edge Case Handling
+- Strengthen problem-solving and algorithmic thinking  
+- Practice essential interview questions  
+- Identify and internalize reusable patterns  
+- Track learning progress publicly  
+- Build a technical portfolio relevant for software engineering roles
+
+---
+
+## 📚 Topics & Patterns Practiced
+
+- Arrays & Strings  
+- Two Pointers & Sliding Window  
+- Hash Maps & Sets  
+- Stack & Queue techniques  
+- Recursion & Backtracking  
+- Binary Trees & Graphs (DFS / BFS)  
+- Dynamic Programming & Optimization  
+- Sorting & Searching  
+- Edge case handling & clean code
 
 ---
 
 ## 📁 Repository Structure
 
 ```text
-LeetCode‑75/
+LeetCode-75/
 ├── Easy/
 ├── Medium/
 └── Hard/
