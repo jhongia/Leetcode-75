@@ -3,7 +3,7 @@
 ![LeetCode 75](https://img.shields.io/badge/LeetCode-75-blue)
 ![Language](https://img.shields.io/badge/Languages-Python%20|%20JavaScript-blue)
 ![Focus](https://img.shields.io/badge/Focus-DSA%20Patterns-green)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/jhongia/Leetcode-75)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Repo Size](https://img.shields.io/github/repo-size/jhongia/Leetcode-75)
 
 This repository documents my journey solving the **LeetCode 75 Study Plan** — a curated set of 75 essential data structure and algorithm problems commonly asked in technical interviews.  
